@@ -1,0 +1,13 @@
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\bin\Debug\netcoreapp2.0\ConsumerQueue.Services.deps.json
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\bin\Debug\netcoreapp2.0\ConsumerQueue.Services.dll
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\bin\Debug\netcoreapp2.0\ConsumerQueue.Services.pdb
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\obj\Debug\netcoreapp2.0\ConsumerQueue.Services.csprojResolveAssemblyReference.cache
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\obj\Debug\netcoreapp2.0\ConsumerQueue.Services.csproj.CoreCompileInputs.cache
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\obj\Debug\netcoreapp2.0\ConsumerQueue.Services.AssemblyInfoInputs.cache
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\obj\Debug\netcoreapp2.0\ConsumerQueue.Services.AssemblyInfo.cs
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\obj\Debug\netcoreapp2.0\ConsumerQueue.Services.dll
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\obj\Debug\netcoreapp2.0\ConsumerQueue.Services.pdb
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\bin\Debug\netcoreapp2.0\ConsumerQueue.Data.dll
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\bin\Debug\netcoreapp2.0\ConsumerQueue.Domain.dll
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\bin\Debug\netcoreapp2.0\ConsumerQueue.Data.pdb
+C:\Users\mrcs1\Source\Repos\Viajanet\ConsumerQueue.Services\bin\Debug\netcoreapp2.0\ConsumerQueue.Domain.pdb

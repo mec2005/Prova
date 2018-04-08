@@ -1,0 +1,17 @@
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\bin\Debug\netcoreapp2.0\Viajanet.WebColeta.deps.json
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\bin\Debug\netcoreapp2.0\Viajanet.WebColeta.runtimeconfig.json
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\bin\Debug\netcoreapp2.0\Viajanet.WebColeta.runtimeconfig.dev.json
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\bin\Debug\netcoreapp2.0\Viajanet.WebColeta.dll
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\bin\Debug\netcoreapp2.0\Viajanet.WebColeta.pdb
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\obj\Debug\netcoreapp2.0\Viajanet.WebColeta.csprojResolveAssemblyReference.cache
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\obj\Debug\netcoreapp2.0\Viajanet.WebColeta.csproj.CoreCompileInputs.cache
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\obj\Debug\netcoreapp2.0\Viajanet.WebColeta.AssemblyInfoInputs.cache
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\obj\Debug\netcoreapp2.0\Viajanet.WebColeta.AssemblyInfo.cs
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\obj\Debug\netcoreapp2.0\Viajanet.WebColeta.dll
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\obj\Debug\netcoreapp2.0\Viajanet.WebColeta.pdb
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\bin\Debug\netcoreapp2.0\Viajanet.Domain.dll
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\bin\Debug\netcoreapp2.0\Viajanet.Domain.pdb
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\bin\Debug\netcoreapp2.0\Viajanet.Services.dll
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\bin\Debug\netcoreapp2.0\Viajanet.Services.pdb
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\bin\Debug\netcoreapp2.0\ConsumerQueue.Domain.dll
+C:\Users\mrcs1\Source\Repos\Viajanet\Viajanet.WebColeta\bin\Debug\netcoreapp2.0\ConsumerQueue.Domain.pdb

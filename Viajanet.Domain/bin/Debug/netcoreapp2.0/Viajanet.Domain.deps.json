@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Viajanet.Domain/1.0.0": {
+        "dependencies": {
+          "ConsumerQueue.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Viajanet.Domain.dll": {}
+        }
+      },
+      "ConsumerQueue.Domain/1.0.0": {
+        "runtime": {
+          "ConsumerQueue.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Viajanet.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsumerQueue.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
